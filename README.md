@@ -51,8 +51,8 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
+![WhatsApp Image 2025-01-06 at 09 04 08_df8eccff](https://github.com/user-attachments/assets/ad8fd6b2-b52f-49ca-a468-2f37e8bb6e37)
 
-![WhatsApp Image 2024-12-31 at 12 10 35_5b01645d](https://github.com/user-attachments/assets/9034c71a-4e51-445c-aed8-7330c6aead64)
 
 **RESULTS**
 
